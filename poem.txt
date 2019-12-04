@@ -1,6 +1,7 @@
 Rainbow
 Violet
 Indigo
+Blue
 Green
 Orange
 Red
